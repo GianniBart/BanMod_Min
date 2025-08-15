@@ -31,7 +31,6 @@ For the full mod, just search for BanMod
 ---
 ### Features
   - You can ban or kick disruptive players at any time, even during matches.
-  - You can decide whether to share your lobby code, and other players with the mod can join by obtaining codes from the website https://banmod.online/
   - Immediately denies access to lobbies to players with names you have banned (Denyname.txt)
   - Immediately denies access to lobbies to players who are in the list (banList.txt) or to players who are blocked on Among Us
   - Kicks or bans those who use banned words or spam start, you can set from 0 to 5 allowed words before being kicked
