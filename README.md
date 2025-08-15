@@ -38,6 +38,7 @@ For the full mod, just search for BanMod
   - You can decide whether to kick or protect players who have been in the game for too long (Time and action can be set)
   - You can close the meetings and you can end the match if necessary
   - The Scientist will receive the actual time of the players' death.
+  - You can disable sabotage.(as requested)
 For commands digit /help
 
 ### INSTALLATION
